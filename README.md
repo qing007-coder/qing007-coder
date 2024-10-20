@@ -19,4 +19,4 @@ Visit Count: ![Visit Count](https://profile-counter.glitch.me/qing007-coder/coun
 
 ![qing007-coder's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=qing007-coder&show_icons=true&theme=radical)
 
-![my favorite lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=qing007-coder&layout=compact&hide_border=true&langs_count=50)
+![my favorite lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=qing007-coder&hide_border=true&langs_count=50)
